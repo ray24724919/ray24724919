@@ -1,14 +1,11 @@
 <h1>Hi 👋, I'm Ray Chen（陳騰睿）</h1>
-<h4>A recent graduate from the Institute of Data Science and Engineering at National Yang Ming Chiao Tung University</h3>
+<h4>A recent graduate from the Institute of Data Science and Engineering at National Yang Ming Chiao Tung University</h4>
 
-- 🔭 My Research is in **Reinforcement Learning and its application in large language models.**
+- 🌱 During my graduate studies, I focused on the application of **Large Language Models**, and am familiar with model fine-tuning, prompting, and test-time alignment. I have experience in experimenting and applying model frameworks such as **Hugging Face** and **LLaMA**.
 
-- 🌱 During my graduate studies, I focused on the application of **large language models (LLMs), and am familiar with model fine-tuning, prompting, and test-time alignment. I have experience in experimenting and applying model frameworks such as Hugging Face and LLaMA.**
+- 🌱 I participated in research at **RL & Bandit Lab**. My coursework covered reinforcement learning applications and optimization theory.
 
-- 👯 Familiar with **Deep Learning frameworks such as PyTorch, and possess practical experience in model fine-tuning and test-time alignment.**
-
-
-- 🌱 I participated in research at **RL & Bandit Lab. My coursework covered reinforcement learning applications and optimization theory. My master's thesis focused on model predictive control, exploring the application of planning methods to large-scale language models.**
+- 🌱 My master's thesis focused on **Model Predictive Control**, exploring the application of planning methods to LLMs.
 
 - 🤝I am looking for jobs related to **AI and ML.**
 
