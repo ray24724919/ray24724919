@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ray Chen（陳騰睿）</h1>
-<h3 align="center">A recent graduate from the Institute of Data Science and Engineering at National Yang Ming Chiao Tung University</h3>
+<h1>Hi 👋, I'm Ray Chen（陳騰睿）</h1>
+<h3>A recent graduate from the Institute of Data Science and Engineering at National Yang Ming Chiao Tung University</h3>
 
 - 🔭 My Research is in **Reinforcement Learning and its application in large language models.**
 
@@ -7,11 +7,10 @@
 
 - 👯 Familiar with **Deep Learning frameworks such as PyTorch, and possess practical experience in model fine-tuning and test-time alignment.**
 
-- 🤝I am looking for jobs related to **AI and ML.**
 
 - 🌱 I participated in research at **RL & Bandit Lab. My coursework covered reinforcement learning applications and optimization theory. My master's thesis focused on model predictive control, exploring the application of planning methods to large-scale language models.**
 
-- 📫 How to reach me **ray0972835045@gmail.com**
+- 🤝I am looking for jobs related to **AI and ML.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
