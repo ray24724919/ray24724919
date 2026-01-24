@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ray Chen（陳騰睿）</h1>
-<h3>A recent graduate from the Institute of Data Science and Engineering at National Yang Ming Chiao Tung University</h3>
+<h4>A recent graduate from the Institute of Data Science and Engineering at National Yang Ming Chiao Tung University</h3>
 
 - 🔭 My Research is in **Reinforcement Learning and its application in large language models.**
 
