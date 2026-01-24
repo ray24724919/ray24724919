@@ -7,7 +7,7 @@
 
 - 🌱 My master's thesis focused on **Model Predictive Control**, exploring the application of planning methods to LLMs.
 
-- 🤝I am looking for jobs related to **AI and ML.**
+- 🤝I am looking for jobs related to **AI and ML**, hoping to continue contributing my expertise in these fields!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
