@@ -16,8 +16,17 @@
 | **[pixel-agents-multi](https://github.com/ray24724919/pixel-agents-multi)** | A local-first VS Code control room for Claude and Codex agents — pixel-office visualization, usage intelligence, timeline replay, and a handoff/executor queue. `TypeScript` |
 | **[Plan2Align](https://github.com/ray24724919/Plan2Align)** | Research code for the ICLR 2026 test-time alignment work: algorithm variants, reward-model tooling, math-reasoning and translation experiments. `Python` |
 | **[Baseline_of_Plan2Align](https://github.com/ray24724919/Baseline_of_Plan2Align)** | Baseline implementations for the same work — ARGS, RAIN, and MetricX-24 evaluation. `Python` |
+| **[CVAE_for_Human_Preference](https://github.com/ray24724919/CVAE_for_Human_Preference)** | Conditional VAE experiments: contextual-bandit regret minimization, and BERT-embedding human-preference/reward prediction on WebGPT comparisons. `Python` |
 | **[ViT_MIL](https://github.com/ray24724919/ViT_MIL)** | Attention-based Multiple Instance Learning over ViT embeddings — bag-level classification from weak supervision only. `Python` |
 | **[NCF_BERT4Rec](https://github.com/ray24724919/NCF_BERT4Rec)** | News click prediction: NCF, NCF-Layer, and a Transformer that scores a candidate slate jointly rather than item by item. `Python` |
+
+<h3 align="left">Coursework</h3>
+
+| | |
+|---|---|
+| **[RL_from_Scratch](https://github.com/ray24724919/RL_from_Scratch)** | Policy/value iteration, REINFORCE (vanilla/baseline/GAE), and DDPG. `Python` |
+| **[Deep_RL_Labs](https://github.com/ray24724919/Deep_RL_Labs)** | TD learning (2048), DQN (Atari), PPO (Atari), and TD3 (CarRacing). `Python` |
+| **[Convex_Optimization_Labs](https://github.com/ray24724919/Convex_Optimization_Labs)** | Convex analysis proofs, first-order methods, variance-reduced SGD/SVRG, and QP/conic programming with Gurobi. `Python` |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
