@@ -1,13 +1,23 @@
 <h1>Hi 👋, I'm Ray Chen（陳騰睿）</h1>
-<h4>A recent graduate from the Institute of Data Science and Engineering at National Yang Ming Chiao Tung University</h4>
+<h4>LLM alignment and inference-time control — and shipping the results as software people actually run.</h4>
 
-- 🌱 During my graduate studies, I focused on the application of **Large Language Models**, and am familiar with model fine-tuning, prompting, and test-time alignment. I have experience in experimenting and applying model frameworks such as **Hugging Face** and **LLaMA**.
+- 📄 **Test-time alignment.** Second author on [*Test-Time Alignment for Large Language Models via Textual Model Predictive Control*](https://arxiv.org/abs/2502.20795) (**ICLR 2026**), which treats generation as a predictive-planning problem: draft, score segment contributions with a reward model, re-plan. Preference alignment without touching the weights, aimed at long-form outputs where sequence-level rewards are too coarse.
 
-- 🌱 I participated in research at **RL & Bandit Lab**. My coursework covered reinforcement learning applications and optimization theory.
+- 🔨 **Now.** Building agent tooling and AI infrastructure — local-first observability for multi-agent coding sessions, and the workflow systems around them.
 
-- 🌱 My master's thesis focused on **Model Predictive Control**, exploring the application of planning methods to LLMs.
+- 🎓 **Background.** M.S. Data Science & Engineering, National Yang Ming Chiao Tung University (2025) · B.S. Applied Mathematics, National Chengchi University (2023) · RL & Bandit Lab.
 
-- 🤝I am looking for jobs related to **AI and ML**, hoping to continue contributing my expertise in these fields!
+- 🧭 **Working on:** Large Language Models · Test-Time Alignment · Reinforcement Learning · Edge AI Deployment
+
+<h3 align="left">Selected work</h3>
+
+| | |
+|---|---|
+| **[pixel-agents-multi](https://github.com/ray24724919/pixel-agents-multi)** | A local-first VS Code control room for Claude and Codex agents — pixel-office visualization, usage intelligence, timeline replay, and a handoff/executor queue. `TypeScript` |
+| **[Plan2Align](https://github.com/ray24724919/Plan2Align)** | Research code for the ICLR 2026 test-time alignment work: algorithm variants, reward-model tooling, math-reasoning and translation experiments. `Python` |
+| **[Baseline_of_Plan2Align](https://github.com/ray24724919/Baseline_of_Plan2Align)** | Baseline implementations for the same work — ARGS, RAIN, and MetricX-24 evaluation. `Python` |
+| **[ViT_MIL](https://github.com/ray24724919/ViT_MIL)** | Attention-based Multiple Instance Learning over ViT embeddings — bag-level classification from weak supervision only. `Python` |
+| **[NCF_BERT4Rec](https://github.com/ray24724919/NCF_BERT4Rec)** | News click prediction: NCF, NCF-Layer, and a Transformer that scores a candidate slate jointly rather than item by item. `Python` |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
